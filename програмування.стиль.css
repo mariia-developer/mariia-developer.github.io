@@ -1,0 +1,87 @@
+body {
+    background-color: #aee4ff;
+    display: block;
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.it {
+    position: absolute;
+    width: 1329px;
+    height: 1272px;
+    left: -369px;
+    top: -96px;
+}
+.hobby {
+    position: absolute;
+    width: 425px;
+    height: 97px;
+    left: 1105px;
+    top: 88px;
+
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+     font-weight: 800;
+     font-size: 75px;
+     line-height: 99px;
+
+     color: #033495;
+}
+.main {
+    position: absolute;
+    width: 89px;
+    height: 82px;
+    left: 950px;
+    top: 170px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #033495;
+    border-radius: 15px;
+}
+.next {
+    position: absolute;
+    width: 89px;
+    height: 82px;
+    left: 1760px;
+    top: 170px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #033495;
+    border-radius: 15px;
+}
+.main1 {
+    position: absolute;
+    width: 89px;
+    height: 82px;
+    left: 17px;
+    top: 22px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #033495;
+    border-radius: 15px;
+}
+.accent1 {
+    position: absolute;
+    height: 28px;
+    width: 600px;
+    left: 1100px;
+    top: 225px;
+
+    background-color: #FFB8D0;
+    border-radius: 0px;
+    z-index: -1;
+}
+.text2 {
+    position: absolute;
+    width: 1049px;
+    height: 660px;
+    left: 871px;
+    top: 256px;
+
+    font-family:'JetBrains Mono';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 66px;
+
+    color: #033495;
+}

@@ -1,0 +1,230 @@
+/* Мої захоплення */
+.heading {
+    position: absolute;
+    width: 1099px;
+    height: 210px;
+    left: 116px;
+    top: 393px;
+
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 128px;
+    line-height: 169px;
+    color: #033495;
+}
+.name {
+    position: absolute;
+    width: 281px;
+    height: 48px;
+    left: 150px;
+    top: 34px;
+
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 48px;
+    color: #6A9CFD;
+}
+body {
+    background-color: #FEE5E1;
+    display: block;
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+  .about {
+    position: absolute;
+    width: 173px;
+    height: 48px;
+    left: 1346px;
+    top: 41px;
+
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 48px;
+
+    color: #6A9CFD;
+  }
+.hobbies {
+    position: absolute;
+    width: 303px;
+    height: 48px;
+    left: 1558px;
+    top: 41px;
+    
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 48px;
+
+    color: #6A9CFD
+}
+.about1 {
+    position: absolute;
+    width: 277px;
+    height: 76px;
+    left: 1110px;
+    top: 1341px;
+
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 57.6px;
+    line-height: 76px;
+    color: #033495;
+}
+.ellipse1 {
+    box-sizing: border-box;
+    position: absolute;
+    height: 180px;
+    width: 824px;
+    left: 400px;
+    top: 530px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #033495;
+
+    border-radius: 50%;
+}
+.gradient {
+    position: absolute;
+    width: 581px;
+    height: 828px;
+    left: 1188px;
+    top: 137px;
+    z-index: -1;
+}
+.moonicon {
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    left: 32px;
+    top: 50px;
+}
+.ilstrt {
+    position: absolute;
+    width: 704px;
+    height: 893px;
+    left: 26px;
+    top: 1210px;
+}
+.myhobbies {
+    position: absolute;
+    width: 657px;
+    height: 97px;
+    left: 634px;
+    top: 2236px;
+
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 75px;
+    line-height: 99px;
+
+    color: #033495;
+}
+.rctngl1 {
+    position: absolute;
+    height: 245px;
+    width: 281px;
+    left: 264px;
+    top: 2544px;
+
+    background-color: #6A9CFD;
+    border-radius: 20px;
+    z-index: -1;
+}
+.rctngl2 {
+    position: absolute;
+    height: 245px;
+    width: 281px;
+    left: 634px;
+    top: 2544px;
+
+    background-color: #AEE4FF;
+    border-radius: 20px;
+    z-index: -1;
+}
+.rctngl3 {
+    position: absolute;
+    height: 245px;
+    width: 281px;
+    left: 1004px;
+    top: 2544px;
+
+    background-color: #FFB8D0;
+    border-radius: 20px;
+    z-index: -1;
+}
+.rctngl4 {
+    position: absolute;
+    height: 245px;
+    width: 281px;
+    left: 1374px;
+    top: 2544px;
+
+    background-color: #033495;
+    border-radius: 20px;
+    z-index: -1;
+}
+.paint {
+    position: absolute;
+    width: 196px;
+    height: 192px;
+    left: 306px;
+    top: 2571px;
+}
+.it {
+    position: absolute;
+    width: 246px;
+    height: 246px;
+    left: 652px;
+    top: 2551px;
+}
+.design {
+    position: absolute;
+    width: 232px;
+    height: 232px;
+    left: 1035px;
+    top: 2551px;
+}
+.book {
+    position: absolute;
+    width: 241px;
+    height: 241px;
+    left: 1391px;
+    top: 2544px;
+}
+.ellipse2 {
+    box-sizing: border-box;
+    position: absolute;
+    height: 100px;
+    width: 600px;
+    left: 780px;
+    top: 2315px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #033495;
+
+    border-radius: 50%;
+}
+.text {
+    position: absolute;
+    width: 989px;
+    height: 361px;
+    left: 834px;
+    top: 1480px;
+
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 48px;
+
+    color: #6A9CFD;
+}

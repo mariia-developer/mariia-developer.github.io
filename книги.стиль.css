@@ -1,0 +1,77 @@
+body {
+    background-color: #033495;
+    display: block;
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.books {
+    position: absolute;
+    width: 1329px;
+    height: 1272px;
+    left: -369px;
+    top: -96px;
+}
+.hobby {
+    position: absolute;
+    width: 425px;
+    height: 97px;
+    left: 1300px;
+    top: 88px;
+
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+     font-weight: 800;
+     font-size: 75px;
+     line-height: 99px;
+
+     color: #aee4ff;
+}
+.main {
+    position: absolute;
+    width: 89px;
+    height: 82px;
+    left: 950px;
+    top: 170px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #aee4ff;
+    border-radius: 15px;
+}
+.next {
+    position: absolute;
+    width: 89px;
+    height: 82px;
+    left: 1760px;
+    top: 170px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #aee4ff;
+    border-radius: 15px;
+}
+.accent1 {
+    position: absolute;
+    height: 28px;
+    width: 250px;
+    left: 1285px;
+    top: 225px;
+
+    background-color: #6a9cfd;
+    border-radius: 0px;
+    z-index: -1;
+}
+.text4 {
+    position: absolute;
+    width: 994px;
+    height: 726px;
+    left: 871px;
+    top: 256px;
+
+    font-family:'JetBrains Mono';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 66px;
+
+    color: #aee4ff;
+}

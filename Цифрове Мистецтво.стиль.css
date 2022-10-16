@@ -1,0 +1,135 @@
+body {
+    background-color: #ffb8d0;
+    display: block;
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.design {
+    position: absolute;
+    width: 1329px;
+    height: 1272px;
+    left: -369px;
+    top: -96px;
+}
+.hobby {
+    position: absolute;
+    width: 635px;
+    height: 79px;
+    left: 1105px;
+    top: 100px;
+
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+     font-weight: 800;
+     font-size: 60px;
+     line-height: 99px;
+
+     color: #033495;
+}
+.main {
+    position: absolute;
+    width: 89px;
+    height: 82px;
+    left: 950px;
+    top: 170px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #033495;
+    border-radius: 15px;
+}
+.next {
+    position: absolute;
+    width: 89px;
+    height: 82px;
+    left: 1760px;
+    top: 170px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #033495;
+    border-radius: 15px;
+}
+.main1 {
+    position: absolute;
+    width: 89px;
+    height: 82px;
+    left: 17px;
+    top: 22px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #aee4ff;
+    border-radius: 15px;
+}
+.accent1 {
+    position: absolute;
+    height: 28px;
+    width: 610px;
+    left: 1100px;
+    top: 225px;
+
+    background-color: #6a9cfd;
+    border-radius: 0px;
+    z-index: -1;
+}
+.myworks {
+    position: absolute;
+    width: 455px;
+    height: 97px;
+    left: 746px;
+    top: 1228px;
+
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 75px;
+    line-height: 99px;
+
+    color: #033495;
+}
+.text3 {
+    position: absolute;
+    width: 1027px;
+    height: 726px;
+    left: 871px;
+    top: 256px;
+
+    font-family:'JetBrains Mono';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 66px;
+
+    color: #033495;
+}
+.ellipse1 {
+    box-sizing: border-box;
+    position: absolute;
+    height: 100px;
+    width: 350px;
+    left: 900px;
+    top: 1300px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #033495;
+
+    border-radius: 50%;
+}
+.work1 {
+    position: absolute;
+    width: 708px;
+    height: 531px;
+    left: 80px;
+    top: 1430px;
+}
+.work2 {
+    position: absolute;
+    width: 718.75px;
+    height: 531px;
+    left: 1092px;
+    top: 2000px;
+}
+.work3 {
+    position: absolute;
+    width: 708px;
+    height: 550PX;
+    left: 80px;
+    top: 2600px;
+}

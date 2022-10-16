@@ -1,0 +1,125 @@
+body {
+    background-color: #6a9cfd;
+    display: block;
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.paint {
+    position: absolute;
+    width: 1329px;
+    height: 1272px;
+    left: -369px;
+    top: -96px;
+}
+.main {
+    position: absolute;
+    width: 89px;
+    height: 82px;
+    left: 950px;
+    top: 170px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #033495;
+    border-radius: 15px;
+}
+.next {
+    position: absolute;
+    width: 89px;
+    height: 82px;
+    left: 1650px;
+    top: 170px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #033495;
+    border-radius: 15px;
+}
+.hobby {
+    position: absolute;
+    width: 425px;
+    height: 97px;
+    left: 1150px;
+    top: 88px;
+
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+     font-weight: 800;
+     font-size: 75px;
+     line-height: 99px;
+
+     color: #033495;
+}
+.myworks {
+    position: absolute;
+    width: 455px;
+    height: 97px;
+    left: 746px;
+    top: 1228px;
+
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 75px;
+    line-height: 99px;
+
+    color: #033495;
+}
+.work1 {
+    position: absolute;
+    width: 708px;
+    height: 531px;
+    left: 80px;
+    top: 1430px;
+}
+.work2 {
+    position: absolute;
+    width: 718.75px;
+    height: 531px;
+    left: 1092px;
+    top: 2000px;
+}
+.work3 {
+    position: absolute;
+    width: 708px;
+    height: 531PX;
+    left: 80px;
+    top: 2600px;
+}
+.accent {
+    position: absolute;
+    height: 28px;
+    width: 407px;
+    left: 1150px;
+    top: 225px;
+
+    background-color: #aee4ff;
+    border-radius: 0px;
+    z-index: -1;
+}
+.text {
+    position: absolute;
+    width: 976px;
+    height: 726px;
+    left:931px;
+    top: 316px;
+
+    font-family:'JetBrains Mono';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 66px;
+
+    color: #033495;
+}
+.ellipse1 {
+    box-sizing: border-box;
+    position: absolute;
+    height: 100px;
+    width: 350px;
+    left: 900px;
+    top: 1300px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid #033495;
+
+    border-radius: 50%;
+}
